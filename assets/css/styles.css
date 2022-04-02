@@ -1,0 +1,12 @@
+.whatsapp:hover {
+  color: green!important;
+}
+
+.telegram:hover {
+  color: var(--bs-blue)!important;
+}
+
+.phone:hover {
+  color: var(--bs-gray)!important;
+}
+
