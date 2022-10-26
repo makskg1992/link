@@ -56,3 +56,8 @@ i{
 
 
   }
+  @media only screen and (max-width: 400px) {
+    .dropdown .btn-light{
+      font-size: 25px;
+    }
+  }
