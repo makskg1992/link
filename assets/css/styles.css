@@ -52,11 +52,11 @@ i{
   .col h1,.col p {
     color: var(--bs-light);
   }
-  .col .itemss a div{
+  /* .col .itemss a div{
 
 
-  }
-  @media only screen and (max-width: 400px) {
+  } */
+  @media only screen and (min-width: 600px) {
     .dropdown .btn-light{
       font-size: 25px;
     }
