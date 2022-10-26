@@ -52,12 +52,16 @@ i{
   .col h1,.col p {
     color: var(--bs-light);
   }
-  /* .col .itemss a div{
-
-
-  } */
-  @media only screen and (min-width: 600px) {
-    .dropdown .btn-light{
+.savee{
+  font-size: 35px;font-weight: bold;
+}
+  @media (max-width: 600px) {
+    .savee{
+          
       font-size: 25px;
+      margin-top: -5px;
     }
+    
+    
+ 
   }
