@@ -42,15 +42,7 @@ document.querySelectorAll('.popap_links').forEach(n => n.
         }
     
     }
-    var caretUp = document.querySelector(".fcaretUp")
-    if(openDropdown.classList.contains('show')){
-    caretUp.classList.remove('fa-caret-down')
-    caretUp.classList.add('fa-caret-up')
-  }else{
-    caretUp.classList.add('fa-caret-up')
-    caretUp.classList.remove('fa-caret-down')
-  }
-
+  
 
       var shareBtn = document.getElementById('shareee')
 
